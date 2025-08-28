@@ -1,0 +1,2 @@
+The project is implementing a CORDIC based logarithmic calculator that can calculate e^x,ln(x) and log2(x) using only addition , subtraction and shifting bits. A look up table with arctanh(2^-n) values are stored in the code and with every iteration we use a value from the look up table to perform our calucations
+the inputs are taken from the pmod keypad and is dispalyed on the OLED on the FPGA board .
